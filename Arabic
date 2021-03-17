@@ -1,43 +1,12 @@
-#EXTM3U
-#EXTINF:-1, CTV
-http://media6.smc-host.com:1935/ctvchannel.tv/ctv.smil/playlist.m3u8
-#EXTINF:-1, Aghapy TV
-https://5d12bc59c4748.streamlock.net/redirect/aghapy.tv/aghapy.smil?type=m3u8
-#EXTINF:-1, Al-Karma TV
-https://5d12bc59c4748.streamlock.net/redirect/alkarmatv.com/alkarmana1.smil?type=m3u8
-#EXTINF:-1, Al-Horreya TV
-https://597f64b67707a.streamlock.net/alhorreya.tv/smil:alhorreya.smil/playlist.m3u8
-#EXTINF:-1, Al-Fady TV
-http://media.smc-host.com:1935/redirect/alfadytv.tv/alfadytv.smil?type=m3u8
-#EXTINF:-1, Logos TV
-https://5d12bc59c4748.streamlock.net/redirect/logoschannel.com/logostv.smil?type=m3u8
-#EXTINF:-1, Nour Sat
-https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
-#EXTINF:-1, DMC HD
-http://livecdnh3.tvanywhere.ae/hls/dmchd/04.m3u8
-#EXTINF:-1, LBC
-http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8
-#EXTINF:-1, LBC
-http://46.101.120.147:3333/arab2020/lbctv/chunks.m3u8?nimblesessionid=242706&wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMjEgMTo0NTozMCBBTSZoYXNoX3ZhbHVlPVNYVld3djRYMzNLV0VNZTRudGNyTHc9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1, MTV HD
-https://mysat-live.ercdn.net/mtvlebanon/mtvlebanon_576p.m3u8
-#EXTINF:-1, MTV HD
-http://46.101.120.147:3333/arab2020/mtvleb/chunks.m3u8?nimblesessionid=238844&wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMjEgMTowNTo0MCBBTSZoYXNoX3ZhbHVlPStiNUM3NUhIdDN3QlNzaWU0N0lMT2c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1, OTV
-https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist_406p.m3u8
-#EXTINF:-1, Teleliban TV
-http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06.m3u8
-#EXTINF:-1, Jadeed TV
-http://livecdnh3.tvanywhere.ae/hls/jadeed/04.m3u8
-#EXTINF:-1, Al Nahar 
-http://livecdnh2.tvanywhere.ae:80/hls/nahar_sd/04.m3u8
-#EXTINF:-1, MBC Masr
-http://livecdnh2.tvanywhere.ae:80/hls/mbc_msr/index.m3u8
-#EXTINF:-1, MBC 1
-http://livecdnh2.tvanywhere.ae/hls/mbc1/03.m3u8
-#EXTINF:-1, MBC 2
-http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
-#EXTINF:-1, MBC 4
-http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8
-#EXTINF:-1, Al Kahera Wl Nas
-http://livecdnh2.tvanywhere.ae/hls/kahera_nas/03.m3u8
+#EXTINF:-1 tvg-id="MBC 1", MBC 1
+http://50.7.69.138:9080/hls/mbc1.m3u8
+#EXTINF:-1 tvg-id="MBC 2", MBC 2
+http://50.7.69.138:9080/hls/mbc2.m3u8
+#EXTINF:-1 tvg-id="MBC 3", MBC 3
+http://50.7.69.138:9080/hls/mbc3.m3u8
+#EXTINF:-1 tvg-id="MBC 4", MBC 4
+http://50.7.69.138:9080/hls/mbc4.m3u8
+#EXTINF:-1 tvg-id="MBC Drama", MBC Drama
+http://50.7.69.138:9080/hls/mbc-drama.m3u8
+#EXTINF:-1 tvg-id="MBC Max", MBC Max
+http://50.7.69.138:9080/hls/mbc-max.m3u8
